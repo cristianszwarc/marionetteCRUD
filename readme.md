@@ -9,10 +9,11 @@ It uses [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorag
 [Demo](http://cristianszwarc.github.io/marionetteCRUD/)
 
 **Use**
-
+```
 node install
 bower install
 gulp
+```
 
 **Screenshot**
 
